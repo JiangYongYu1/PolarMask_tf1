@@ -1,0 +1,7 @@
+tensorflow-gpu==1.14.0
+opencv-python==3.4.0.12
+mmcv==1.1.3
+Cython
+terminaltables
+pycocotools==2.0
+numpy==1.17.0
